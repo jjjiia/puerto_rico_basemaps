@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+body{
+	font-family:helvetica;
+	letter-spacing:1px;	
+	font-size:12px;
+    overflow:hidden;
+}
+#map{
+	margin:0px;
+	position:absolute;
+    top:0px;
+	padding-top:60px;
+	padding-left:0px;
+	left:0px;
+    width:100%;
+    height:100%;
+    overflow:hidden;
+}
+
+#infoPanel{
+    position:absolute;
+    left:10px;
+    top:60px;
+    width:150px;
+    min-height:150px;
+    background-color:rgba(255,255,255,.3);
+    border:1px solid black;
+    padding:20px;
+}
+#top{
+    position:absolute;
+    left:10px;
+    bottom:20px;
+    width:300px;
+    min-height:150px;
+    background-color:rgba(255,255,255,.4);
+    border:1px solid black;
+    padding:20px;
+}
+}
+#header{
+	border-bottom:1px solid black;
+	margin-bottom:10px;
+	padding:5px
+}
+</style>
+<script src="lib/d3.v4.min.js"></script>
+<script src="lib/topojson.v2.min.js"></script>
+
+<div id="header">
+	<div class="title" id="title">% of Hispanic or Latino of Puerto Rican Origin to Total Population</div>
+	<div class="subtitle" id="subtitle">American Community Survey: 2016 - 5 year estimate</div>
+</div>
+<div id="map"></div>
+<div id="infoPanel"></div>
+<div id="top"></div>
+<script src="minimum_code_map.js"></script>
+
+<script>
+</script>

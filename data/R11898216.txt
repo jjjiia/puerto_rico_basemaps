@@ -1,0 +1,175 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R11898216
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           ACS 2016 (5-Year Estimates)
+Dataset:          Social Explorer Tables:  ACS 2016 (5-Year Estimates)
+Tables:
+
+      1. Hispanic or Latino by Specific Origin
+         Universe:  Total population
+         Name:      T15
+         Variables:
+            T015_001:   Total Population
+            T015_002:      Not Hispanic or Latino
+            T015_003:      Hispanic or Latino:
+            T015_004:         Mexican
+            T015_005:         Puerto Rican
+            T015_006:         Cuban
+            T015_007:         Dominican Republic
+            T015_008:         Central American:
+            T015_009:            Costa Rican
+            T015_010:            Guatemalan
+            T015_011:            Honduran
+            T015_012:            Nicaraguan
+            T015_013:            Panamanian
+            T015_014:            Salvadoran
+            T015_015:            Other Central American
+            T015_016:         South American:
+            T015_017:            Argentinean
+            T015_018:            Bolivian
+            T015_019:            Chilean
+            T015_020:            Colombian
+            T015_021:            Ecuadorian
+            T015_022:            Paraguayan
+            T015_023:            Peruvian
+            T015_024:            Uruguayan
+            T015_025:            Venezuelan
+            T015_026:            Other South American
+            T015_027:         Other Hispanic or Latino:
+            T015_028:            Spaniard
+            T015_029:            Spanish
+            T015_030:            Spanish American
+            T015_031:            All Other Hispanic or Latino
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FIPS:           FIPS
+      GEOID:          Geographic Identifier
+      NAME:           Name of Area
+      QName:          Qualifying Name
+      STUSAB:         State/U.S.-Abbreviation (USPS)
+      SUMLEV:         Summary Level
+      GEOCOMP:        Geographic Component
+      FILEID:         File Identification
+      LOGRECNO:       Logical Record Number
+      US:             US
+      REGION:         Region
+      DIVISION:       Division
+      STATECE:        State (Census Code)
+      STATE:          State (FIPS)
+      COUNTY:         County
+      COUSUB:         County Subdivision (FIPS)
+      PLACE:          Place (FIPS Code)
+      PLACESE:        Place (State FIPS + Place FIPS)
+      TRACT:          Census Tract
+      BLKGRP:         Block Group
+      CONCIT:         Consolidated City
+      AIANHH:         American Indian Area/Alaska Native Area/Hawaiian Home Land (Census)
+      AIANHHFP:       American Indian Area/Alaska Native Area/Hawaiian Home Land (FIPS)
+      AIHHTLI:        American Indian Trust Land/Hawaiian Home Land Indicator
+      AITSCE:         American Indian Tribal Subdivision (Census)
+      AITS:           American Indian Tribal Subdivision (FIPS)
+      ANRC:           Alaska Native Regional Corporation (FIPS)
+      CBSA:           Metropolitan and Micropolitan Statistical Area
+      CSA:            Combined Statistical Area
+      METDIV:         Metropolitan Division
+      MACC:           Metropolitan Area Central City
+      MEMI:           Metropolitan/Micropolitan Indicator Flag
+      NECTA:          New England City and Town Combined Statistical Area
+      CNECTA:         New England City and Town Area
+      NECTADIV:       New England City and Town Area Division
+      UA:             Urban Area
+      UACP:           Urban Area Central Place
+      CDCURR:         Current Congressional District ***
+      SLDU:           State Legislative District Upper
+      SLDL:           State Legislative District Lower
+      VTD:            Voting District
+      ZCTA3:          ZIP Code Tabulation Area (3-digit)
+      ZCTA5:          ZIP Code Tabulation Area (5-digit)
+      SUBMCD:         Subbarrio (FIPS)
+      SDELM:          School District (Elementary)
+      SDSEC:          School District (Secondary)
+      SDUNI:          School District (Unified)
+      UR:             Urban/Rural
+      PCI:            Principal City Indicator
+      TAZ:            Traffic Analysis Zone
+      UGA:            Urban Growth Area
+      BTTR:           Tribal Tract
+      BTBG:           Tribal Block Group
+      PUMA5:          Public Use Microdata Area - 5% File
+      PUMA1:          Public Use Microdata Area - 1% File
+      T015_001:       Total Population
+      T015_002:       Total Population: Not Hispanic or Latino
+      T015_003:       Total Population: Hispanic or Latino
+      T015_004:       Total Population: Hispanic or Latino: Mexican
+      T015_005:       Total Population: Hispanic or Latino: Puerto Rican
+      T015_006:       Total Population: Hispanic or Latino: Cuban
+      T015_007:       Total Population: Hispanic or Latino: Dominican Republic
+      T015_008:       Total Population: Hispanic or Latino: Central American
+      T015_009:       Total Population: Hispanic or Latino: Central American: Costa Rican
+      T015_010:       Total Population: Hispanic or Latino: Central American: Guatemalan
+      T015_011:       Total Population: Hispanic or Latino: Central American: Honduran
+      T015_012:       Total Population: Hispanic or Latino: Central American: Nicaraguan
+      T015_013:       Total Population: Hispanic or Latino: Central American: Panamanian
+      T015_014:       Total Population: Hispanic or Latino: Central American: Salvadoran
+      T015_015:       Total Population: Hispanic or Latino: Central American: Other Central American
+      T015_016:       Total Population: Hispanic or Latino: South American
+      T015_017:       Total Population: Hispanic or Latino: South American: Argentinean
+      T015_018:       Total Population: Hispanic or Latino: South American: Bolivian
+      T015_019:       Total Population: Hispanic or Latino: South American: Chilean
+      T015_020:       Total Population: Hispanic or Latino: South American: Colombian
+      T015_021:       Total Population: Hispanic or Latino: South American: Ecuadorian
+      T015_022:       Total Population: Hispanic or Latino: South American: Paraguayan
+      T015_023:       Total Population: Hispanic or Latino: South American: Peruvian
+      T015_024:       Total Population: Hispanic or Latino: South American: Uruguayan
+      T015_025:       Total Population: Hispanic or Latino: South American: Venezuelan
+      T015_026:       Total Population: Hispanic or Latino: South American: Other South American
+      T015_027:       Total Population: Hispanic or Latino: Other Hispanic or Latino
+      T015_028:       Total Population: Hispanic or Latino: Other Hispanic or Latino: Spaniard
+      T015_029:       Total Population: Hispanic or Latino: Other Hispanic or Latino: Spanish
+      T015_030:       Total Population: Hispanic or Latino: Other Hispanic or Latino: Spanish American
+      T015_031:       Total Population: Hispanic or Latino: Other Hispanic or Latino: All Other Hispanic or Latino
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2018
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R11898216
+
+If you have any questions contact info@socialexplorer.com
